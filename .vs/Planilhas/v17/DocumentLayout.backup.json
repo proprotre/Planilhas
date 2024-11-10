@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Badaro\\source\\repos\\Planilhas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B0F174-AA5A-464D-816A-A41FDBB2923E}|Planilhas\\Planilhas.csproj|c:\\users\\badaro\\source\\repos\\planilhas\\planilhas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B0F174-AA5A-464D-816A-A41FDBB2923E}|Planilhas\\Planilhas.csproj|solutionrelative:planilhas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B0F174-AA5A-464D-816A-A41FDBB2923E}|Planilhas\\Planilhas.csproj|C:\\Users\\Badaro\\source\\repos\\Planilhas\\planilhas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5B0F174-AA5A-464D-816A-A41FDBB2923E}|Planilhas\\Planilhas.csproj|solutionrelative:planilhas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Badaro\\source\\repos\\Planilhas\\Planilhas\\Form1.cs",
+              "RelativeDocumentMoniker": "Planilhas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Badaro\\source\\repos\\Planilhas\\Planilhas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Planilhas\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:44:34.146Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Badaro\\source\\repos\\Planilhas\\Planilhas\\Form1.cs",
+              "RelativeDocumentMoniker": "Planilhas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Badaro\\source\\repos\\Planilhas\\Planilhas\\Form1.cs",
+              "RelativeToolTip": "Planilhas\\Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAswD8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:27:43.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
